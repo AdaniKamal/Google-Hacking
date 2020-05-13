@@ -3,9 +3,6 @@ Google Hacking/Google Dork
 
 ## Summary
 
-MCSI Remote Internship.
+This is my notes in order for me to finished up the lab for my MCSI Remote Internship. 
 
-I learned in other to finished my Remote Intership
-
-Below is just a template...................
 
