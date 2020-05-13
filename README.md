@@ -43,4 +43,4 @@ So, for me, it make task easier for pentester. Just using google search, we can 
 
 
 
-(c) AdaniKamal
+© AdaniKamal
