@@ -1,20 +1,26 @@
 # Google-Hacking
 Google Hacking/Google Dork
 
-## Summary
+## Exercise
 
-This is my notes in order for me to finished up the lab for my MCSI Remote Internship.
-_______________________________________________________________________________________
+![image](https://user-images.githubusercontent.com/44063862/81834734-ee4ca700-9573-11ea-8a06-760b46434394.png)
 
-# Google Hacking
-Google Hacking/Google Dork
+1) site:blogspot.com filetype:PDF intext:password
 
-## What is Google Dork
- 
-A Google Dork/Google Dorking/Google hacking, is a valuable resource for security researchers. (Cp)
+**Output:**
 
-So, for me, it make task easier for pentester. Just using google search, we can obtain sensitive information or crucial data.
+![image](https://user-images.githubusercontent.com/44063862/81834907-34096f80-9574-11ea-8bb0-c871c1a022b1.png)
 
-![image](https://user-images.githubusercontent.com/44063862/81821421-64491200-9564-11ea-84f9-ac52a449d433.png)
+2) site:www.hubspot.com filetype:PDF intext:password
 
-## Google Dorks
+**Output:**
+
+![image](https://user-images.githubusercontent.com/44063862/81835123-703cd000-9574-11ea-8d72-2e726c0f5990.png)
+
+3) site:wordpress.com filetype:PDF intext:password
+
+**Output:**
+
+![image](https://user-images.githubusercontent.com/44063862/81835150-792da180-9574-11ea-9210-060f205d8ca5.png)
+
+© AdaniKamal
